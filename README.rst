@@ -10,7 +10,7 @@ Join the GoOSe Project Mailing List(s)
 
 To participate as a contributor, it's important to use the mailing lists. Here's a list of them all, with a good description of each. 
 
-* https://groups.google.com/group/goose-linux - Main GoOSe Project mailing list (Highly Recommended) Please join this list and introduce yourself to the community.
+* https://groups.google.com/group/goose-linux - Main GoOSe Project mailing list (Mandatory, for now) Please join this list and introduce yourself to the community.
 
 Become a Contributor
 --------------------
