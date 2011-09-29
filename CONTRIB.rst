@@ -6,4 +6,5 @@ Contributor Full Name Email Address (optional)     GoOSe Username (same as githu
 ===================== ============================ ===============================
 Clint Savage          herlo1 AT gmail DoT com      herlo
 Derek Carter          goobach AT friocorte DoT com goozbach
+Ivan Makfinsky        ivan AT makfinsky DoT com    imak
 ===================== ============================ ===============================
